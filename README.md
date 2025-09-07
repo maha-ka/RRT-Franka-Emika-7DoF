@@ -64,3 +64,5 @@ Here’s how it works in each iteration:
 
 Through repeated iterations of this process — sampling, connecting, and rewiring — RRT* gradually improves the quality of the path. Over time, it converges toward the optimal solution, ensuring asymptotic optimality while still exploring complex environments efficiently.
 
+
+![star2](/uploads/8689ec01bb45bbe999db22924f7357a3/star2.mp4)
