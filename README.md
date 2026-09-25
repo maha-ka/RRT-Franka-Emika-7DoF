@@ -4,11 +4,7 @@ The notebook contains path planning for Franka Emika 7DoF robotic manipulator wi
 
 ## Rapidly exploring Random
 
-https://github.com/user-attachments/assets/b4cd2f8a-1b94-4375-a1ca-4616cbc2eb09
 
-
-
-https://github.com/user-attachments/assets/733f6596-239a-47c3-b25d-e86fc91b6eda
 
  Tree (RRT)
 
@@ -54,7 +50,7 @@ This alternating strategy helps both trees explore the collision-free space whil
 
 However, the bidirectional search still exhibits a certain degree of randomness and cannot guarantee an optimal path obtainment.
 
-![connect](/uploads/02a714f07b8d4206769e58739bb1f3d4/connect.mp4)
+https://github.com/user-attachments/assets/b4cd2f8a-1b94-4375-a1ca-4616cbc2eb09
 
 ## RRT star, an extension of RRT
 
