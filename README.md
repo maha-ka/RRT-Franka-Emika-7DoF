@@ -1,3 +1,7 @@
+
+
+
+
 # Path Planning with RRT for Franka Emika 7DoF
 
 The notebook contains path planning for Franka Emika 7DoF robotic manipulator with static obstacles avoidance using different algorithms (RRT_connect, RRT*)
@@ -69,4 +73,9 @@ Here’s how it works in each iteration:
 Through repeated iterations of this process — sampling, connecting, and rewiring — RRT* gradually improves the quality of the path. Over time, it converges toward the optimal solution, ensuring asymptotic optimality while still exploring complex environments efficiently.
 
 
-![star2](/uploads/8689ec01bb45bbe999db22924f7357a3/star2.mp4)
+
+
+
+https://github.com/user-attachments/assets/9bc5f59b-b6a3-422c-894d-01a3c8b86e20
+
+
