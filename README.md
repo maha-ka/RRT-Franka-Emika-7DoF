@@ -2,7 +2,15 @@
 
 The notebook contains path planning for Franka Emika 7DoF robotic manipulator with static obstacles avoidance using different algorithms (RRT_connect, RRT*)
 
-## Rapidly exploring Randon Tree (RRT)
+## Rapidly exploring Random
+
+https://github.com/user-attachments/assets/b4cd2f8a-1b94-4375-a1ca-4616cbc2eb09
+
+
+
+https://github.com/user-attachments/assets/733f6596-239a-47c3-b25d-e86fc91b6eda
+
+ Tree (RRT)
 
 Path planning involves finding a way through a space called the configuration space, where each point represents a specific position and orientation of an object (or multiple objects) in a 2D or 3D environment. This space can be complex due to the shape and movement of the objects involved.
 
